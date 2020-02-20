@@ -1,0 +1,11 @@
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ExtensionMethods\use_ExtensionMethods\bin\Debug\netcoreapp3.0\use_ExtensionMethods.exe
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ExtensionMethods\use_ExtensionMethods\bin\Debug\netcoreapp3.0\use_ExtensionMethods.deps.json
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ExtensionMethods\use_ExtensionMethods\bin\Debug\netcoreapp3.0\use_ExtensionMethods.runtimeconfig.json
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ExtensionMethods\use_ExtensionMethods\bin\Debug\netcoreapp3.0\use_ExtensionMethods.runtimeconfig.dev.json
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ExtensionMethods\use_ExtensionMethods\bin\Debug\netcoreapp3.0\use_ExtensionMethods.dll
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ExtensionMethods\use_ExtensionMethods\bin\Debug\netcoreapp3.0\use_ExtensionMethods.pdb
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ExtensionMethods\use_ExtensionMethods\obj\Debug\netcoreapp3.0\use_ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ExtensionMethods\use_ExtensionMethods\obj\Debug\netcoreapp3.0\use_ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ExtensionMethods\use_ExtensionMethods\obj\Debug\netcoreapp3.0\use_ExtensionMethods.AssemblyInfo.cs
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ExtensionMethods\use_ExtensionMethods\obj\Debug\netcoreapp3.0\use_ExtensionMethods.dll
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ExtensionMethods\use_ExtensionMethods\obj\Debug\netcoreapp3.0\use_ExtensionMethods.pdb
